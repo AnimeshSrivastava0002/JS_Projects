@@ -26,6 +26,8 @@ Includes score tracking, interactive UI, and random move generation using JavaSc
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/js-projects.git
-cd js-projects/rock-paper-scissors
+git clone https://github.com/AnimeshSrivastava0002/JS_Projects.git
+cd js-projects/rock-ppr-scissors.html
 open index.html
+```
+
