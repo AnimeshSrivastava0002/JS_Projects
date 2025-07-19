@@ -17,7 +17,7 @@ Includes score tracking, interactive UI, and random move generation using JavaSc
 
 #### 🔗 Live Demo
 
-[👉 Play it here](https://AnimeshSrivastava0002.github.io/JS_projects/rock-paper-scissors)
+[👉 Play it here](https://AnimeshSrivastava0002.github.io/JS_projects/rock_ppr_scissor.html)
 
 ---
 
